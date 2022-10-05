@@ -1,8 +1,13 @@
 # 95decode
 
+> Blockchain developer \
+> 95decode@gmail.com
+
 ## Language
-<p>
-    <img width="32" height="32" src="https://github.com/95decode/95decode/blob/main/icon/typescript.svg"/></a>&nbsp;
-    <img width="32" height="32" src="https://github.com/95decode/95decode/blob/main/icon/solidity.svg"/></a>&nbsp;
-    <img width="32" height="32" src="https://github.com/95decode/95decode/blob/main/icon/go.svg"/></a>&nbsp;
-</p>
+<pre>
+<img width="40" height="40" src="https://github.com/95decode/95decode/blob/main/icon/typescript.svg"/> Typescript
+
+<img width="40" height="40" src="https://github.com/95decode/95decode/blob/main/icon/solidity.svg"/> Solidity
+
+<img width="40" height="40" src="https://github.com/95decode/95decode/blob/main/icon/go.svg"/> Go
+</pre>
