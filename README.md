@@ -1,7 +1,7 @@
 # 95decode
 
-> Blockchain developer \
-> 95decode@gmail.com
+> Blockchain engineer \
+> 95decode@gmail.com 
 
 ## Language
 <pre>
