@@ -1,8 +1,8 @@
 # 95decode
 
 > Blockchain engineer \
-> 95decode@gmail.com 
-> https://95decode.github.io/cv/
+> 95decode@gmail.com \
+> [CV](https://95decode.github.io/cv/)
 
 ## Language
 <pre>
