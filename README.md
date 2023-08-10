@@ -2,7 +2,7 @@
 
 > Blockchain engineer \
 > 95decode@gmail.com \
-> [CV](https://95decode.github.io/cv/)
+> [LinkedIn](www.linkedin.com/in/95decode)
 
 ## Language
 <pre>
